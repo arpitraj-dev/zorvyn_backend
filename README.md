@@ -2,6 +2,10 @@
 
 A robust Spring Boot REST API backend for managing personal/business finances with role-based access control, comprehensive analytics, and real-time dashboard insights.
 
+**Access the API**
+   ```
+   http://localhost:8080/swagger-ui/index.html
+   ```
 ---
 
 ## 📋 Table of Contents
@@ -121,11 +125,6 @@ Finance Dashboard is a backend application that provides APIs for managing finan
 
    ```bash
    mvn spring-boot:run
-   ```
-
-6. **Access the API**
-   ```
-   http://localhost:8080/swagger-ui/index.html
    ```
 
 ### Initial Setup
