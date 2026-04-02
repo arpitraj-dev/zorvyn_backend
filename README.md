@@ -125,7 +125,7 @@ Finance Dashboard is a backend application that provides APIs for managing finan
 
 6. **Access the API**
    ```
-   http://localhost:8080
+   http://localhost:8080/swagger-ui/index.html
    ```
 
 ### Initial Setup
